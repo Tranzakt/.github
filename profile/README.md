@@ -20,7 +20,10 @@ such as Software in the Public Interest (SPI Inc.).
 
 ## Current Projects
 
-* Laravel Tranzakt - a GUI-based low-/no-code code generator for Laravel. Will have Runtime and Development packages.
+* Laravel Tranzakt - a GUI-based low-/no-code code generator for Laravel. 
+Will have Runtime and Development packages, 
+and possibly a separate documentation repo 
+to generate a documentation / help web site
 * softDeletesUnique - a Laravel extension to allow use of Unique indexes for softDelete models.
 * PHP xrange - a like-for-like generator replacement for the PHP `range` function when used with `foreach` statements
 
