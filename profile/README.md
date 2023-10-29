@@ -23,7 +23,12 @@ such as Software in the Public Interest (SPI Inc.).
 * Visual Laravel - a GUI-based low-/no-code code generator for Laravel. 
 Will have Runtime and Development packages, 
 and possibly a separate documentation repo 
-to generate a documentation / help web site
+to generate a documentation / help web site.
+
+    Like Laravel itself, Visual Laravel will be built upon as much existing open source code as possible
+    in order to avoid reinventing wheels,
+    and will be designed to spin off as many sub-packages as possible
+    in order to provide as much reuse of our code by others. 
 * softDeletesUnique - a Laravel extension to allow use of Unique indexes for softDelete models.
 * PHP xrange - a like-for-like generator replacement for the PHP `range` function when used with `foreach` statements
 
